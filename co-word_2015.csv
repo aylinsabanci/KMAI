@@ -1,0 +1,209 @@
+natural language processing,text mining,4
+knowledge discovery,natural language processing,3
+data mining,knowledge discovery,3
+artificial intelligence,knowledge management,3
+knowledge discovery,text mining,2
+knowledge management,natural language processing,2
+knowledge discovery,machine learning,2
+classification,support vector machine,2
+knowledge transfer,support vector machine,2
+knowledge transfer,transfer learning,2
+machine learning,natural language processing,2
+knowledge representation,support vector machine,2
+knowledge management,support vector machine,2
+automation,expert system,2
+knowledge representation,ontology,2
+design,performance,2
+deep learning,knowledge transfer,2
+decision support,support vector machine,2
+expert system,knowledge management,2
+embedding model,knowledge base,2
+fungramkb,natural language processing,2
+genetic algorithm,support vector machine,2
+knowledge acquisition,knowledge-based engineering,2
+expert system,knowledge base,2
+knowledge acquisition,natural language processing,2
+incremental learning,knowledge discovery,2
+data mining,rough set,2
+knowledge acquisition,knowledge representation,2
+algorithms,design,2
+artificial neural network,data mining,2
+artificial intelligence,knowledge acquisition,2
+algorithms,performance,2
+rough set,rule induction,2
+artificial neural network,multi-criteria decision making,2
+artificial neural network,multilayer perceptron,2
+support vector machine,support vector machine,2
+genetic algorithm,semantic similarity,1
+performance,theory,1
+information extraction,knowledge discovery,1
+incremental learning,rough set,1
+gis,support vector machine,1
+reinforcement learning,transfer learning,1
+genetic algorithm,transfer learning,1
+performance,transfer learning,1
+investment decision,rough set theory,1
+investment decision,multi-criteria decision making,1
+k-means clustering,knowledge management,1
+investment decision,soft computing,1
+information extraction,relation extraction,1
+information extraction,named entity recognition,1
+information extraction,machine learning,1
+ontology,soft computing,1
+information extraction,natural language processing,1
+genetic algorithm,neural network,1
+fuzzy inference system,investment decision,1
+feature selection,knowledge discovery,1
+fuzzy inference system,knowledge engineering,1
+fuzzy inference system,knowledge base verification,1
+expert system,word sense disambiguation,1
+theory,transfer learning,1
+expert system,fuzzy system,1
+expert system,modelling,1
+expert system,machine learning,1
+fuzzy logic,neuro-fuzzy,1
+fuzzy logic,knowledge-based systems,1
+genetic algorithm,knowledge management,1
+fuzzy system,knowledge base,1
+relation extraction,text mining,1
+fuzzy inference system,soft computing,1
+fuzzy inference system,rough set theory,1
+fuzzy inference,neuro-fuzzy,1
+rough set theory,soft computing,1
+multi-criteria decision making,multilayer perceptron,1
+knowledge management,modelling,1
+knowledge management,network analysis,1
+knowledge management,optimization,1
+knowledge management,ontology learning,1
+knowledge engineering,knowledge representation,1
+named entity recognition,performance,1
+knowledge engineering,machine learning,1
+knowledge management,machine learning,1
+knowledge engineering,ontology,1
+knowledge sharing,optimization,1
+machine learning,ontology learning,1
+knowledge transfer,machine learning,1
+machine learning,ontology,1
+knowledge transfer,reinforcement learning,1
+knowledge management,theory,1
+machine learning,text mining,1
+knowledge representation,knowledge transfer,1
+knowledge representation,natural language processing,1
+machine learning,soft computing,1
+knowledge acquisition,rough set,1
+knowledge acquisition,reinforcement learning,1
+natural language processing,ontology,1
+knowledge acquisition,text mining,1
+knowledge acquisition,rule induction,1
+k-means clustering,natural language processing,1
+k-means clustering,machine learning,1
+knowledge acquisition,knowledge base system,1
+neural network,transfer learning,1
+ontology,risk assessment,1
+named entity recognition,relation extraction,1
+natural language processing,network analysis,1
+knowledge discovery,neural network,1
+knowledge discovery,support vector machine,1
+knowledge discovery,rough set,1
+knowledge base verification,knowledge engineering,1
+knowledge base system,knowledge representation,1
+knowledge base,natural language processing,1
+knowledge base,representation learning,1
+knowledge base,neural network,1
+bayesian network,diagnostic expert system,1
+automation,modelling,1
+automation,knowledge management,1
+bayesian network,ontology,1
+bayesian network,knowledge transfer,1
+bayesian network,expert system,1
+australia,automation,1
+association rule mining,word sense disambiguation,1
+association rule mining,natural language processing,1
+automation,automation,1
+australia,modelling,1
+australia,knowledge management,1
+biomarker discovery,transfer learning,1
+biomarker discovery,machine learning,1
+biomarker discovery,knowledge transfer,1
+biomedical text mining,performance,1
+biomedical text mining,named entity recognition,1
+biomedical text mining,design,1
+big data,fuzzy system,1
+big data,data mining,1
+bayesian network,transfer learning,1
+biomarker discovery,knowledge discovery,1
+big data,network analysis,1
+big data,gis,1
+ambient intelligence,machine learning,1
+ambient intelligence,knowledge management,1
+ambient intelligence,energy efficiency,1
+artificial intelligence,gis,1
+artificial intelligence,expert system,1
+artificial intelligence,big data,1
+algorithms,knowledge transfer,1
+algorithms,data mining,1
+algorithms,biomedical text mining,1
+algorithms,transfer learning,1
+algorithms,theory,1
+algorithms,named entity recognition,1
+artificial neural network,support vector machine,1
+artificial neural network,artificial neural network,1
+artificial intelligence,ontology learning,1
+association rule mining,knowledge base,1
+association rule mining,expert system,1
+association rule mining,data mining,1
+artificial intelligence,knowledge sharing,1
+artificial intelligence,knowledge representation,1
+artificial intelligence,knowledge base system,1
+artificial intelligence,neural network,1
+artificial intelligence,machine learning,1
+artificial intelligence,knowledge-based engineering,1
+biomedical text mining,relation extraction,1
+decision support,knowledge base verification,1
+decision support,genetic algorithm,1
+decision making,rule induction,1
+design,theory,1
+design,named entity recognition,1
+decision support,knowledge management,1
+data mining,transfer learning,1
+data mining,theory,1
+data mining,support vector machine,1
+decision making,rough set,1
+decision making,multi-criteria decision making,1
+decision making,investment decision,1
+embedding model,neural network,1
+dimensionality reduction,natural language processing,1
+dimensionality reduction,machine learning,1
+energy efficiency,knowledge management,1
+energy efficiency,knowledge discovery,1
+embedding model,representation learning,1
+diagnostic expert system,rough set,1
+diagnostic expert system,knowledge acquisition,1
+design,transfer learning,1
+dimensionality reduction,knowledge discovery,1
+dimensionality reduction,information extraction,1
+diagnostic expert system,rule induction,1
+cloud computing,machine learning,1
+cloud computing,knowledge discovery,1
+cloud computing,expert system,1
+conditional random field,natural language processing,1
+conditional random field,knowledge base,1
+cloud computing,neural network,1
+breast cancer,instance selection,1
+breast cancer,case-based reasoning,1
+biomedical text mining,text mining,1
+classification,knowledge transfer,1
+classification,knowledge representation,1
+case-based reasoning,ontology,1
+data mining,multi-criteria decision making,1
+data mining,machine learning,1
+data mining,knowledge base,1
+data mining,performance,1
+data mining,natural language processing,1
+data mining,multilayer perceptron,1
+data mining,dimensionality reduction,1
+data mining,design,1
+conditional random field,word sense disambiguation,1
+data mining,instance selection,1
+data mining,fuzzy system,1
+data mining,feature selection,1
